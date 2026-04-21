@@ -22,9 +22,11 @@ Standard Class was the best-performing shipping mode,
 Loyal customers significantly impacted revenue
 
 Recommendations
+
 Invest in top-performing categories,
 Improve customer retention programs,
 Optimize shipping operations,
 Replicate successful regional strategies.
 
 Dashboard Preview
+<img width="1270" height="820" alt="image" src="https://github.com/user-attachments/assets/74481d74-a1db-4d7c-9814-fff6bd735bc6" />
